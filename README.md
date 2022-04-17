@@ -1,2 +1,2 @@
-# ryzitest3.github.io
-example description
+# WELCOME TO RYZI PORTFOLIO
+Ryan Azmi Zuhdi Damanik
